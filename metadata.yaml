@@ -1,0 +1,48 @@
+_repo: The-Madman-and-the-Pirate_21813
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Twidle, Arthur
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '8293'
+    url: http://www.gutenberg.org/2009/agents/8293
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Twidle
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballantyne, R. M. (Robert Michael)
+    alias: Ballantyne, Robert Michael
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '333'
+    url: http://www.gutenberg.org/2009/agents/333
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+description: Get set for high-seas adventure with The Madman and the Pirate, a gripping
+  page-turner that will leave you wanting more. After being abandoned on a seemingly
+  deserted island in the Pacific, the 'Madman' of the title happens upon a former
+  pirate who has also been forced to make his home there. Despite mutual distaste
+  for each other, the odd pair eventually find their way into and out of a number
+  of scrapes and close calls.
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Madman and the Pirate
+url: http://www.gutenberg.org/ebooks/21813
